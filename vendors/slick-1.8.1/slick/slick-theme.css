@@ -90,11 +90,11 @@
 }
 .slick-prev:before
 {
-    content: '←';
+    content: url('../../../img/backword-arrow.svg');
 }
 [dir='rtl'] .slick-prev:before
 {
-    content: '→';
+    content: url('../../../img/forward-arrow.svg');
 }
 
 .slick-next
@@ -108,11 +108,11 @@
 }
 .slick-next:before
 {
-    content: '→';
+    content: url('../../../img/forward-arrow.svg');
 }
 [dir='rtl'] .slick-next:before
 {
-    content: '←';
+    content: url('../../../img/backword-arrow.svg');
 }
 
 /* Dots */

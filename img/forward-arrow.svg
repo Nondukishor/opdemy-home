@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="79" viewBox="0 0 79 79">
+    <defs>
+        <filter id="skupky36ka" width="147.5%" height="147.5%" x="-23.8%" y="-20.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.203889266 0"/>
+        </filter>
+        <circle id="cb38atdp9b" cx="30.5" cy="30.5" r="30.5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(9 7)">
+        <use fill="#000" filter="url(#skupky36ka)" xlink:href="#cb38atdp9b"/>
+        <use fill="#130055" xlink:href="#cb38atdp9b"/>
+        <g fill="#FFF">
+            <path d="M32.654 7.087l-.001-.002L25.91.375c-.505-.502-1.322-.5-1.824.005-.503.505-.501 1.322.004 1.825l4.527 4.505H1.29C.578 6.71 0 7.287 0 8c0 .713.578 1.29 1.29 1.29h27.327l-4.527 4.505c-.505.503-.507 1.32-.004 1.825.502.505 1.32.507 1.825.004l6.742-6.71c.506-.505.505-1.325 0-1.827z" transform="translate(14 22)"/>
+        </g>
+    </g>
+</svg>

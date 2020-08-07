@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="116" viewBox="0 0 330 116">
+    <defs>
+        <filter id="l048h1r35a" width="108.3%" height="126%" x="-4.1%" y="-11%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.242385643 0"/>
+        </filter>
+        <path id="upic7mx7vb" d="M15.383 0h283.52c5.349 0 7.288.557 9.244 1.603 1.955 1.046 3.49 2.58 4.536 4.536 1.046 1.955 1.603 3.895 1.603 9.244v69.234c0 5.349-.557 7.289-1.603 9.244-1.046 1.956-2.58 3.49-4.536 4.536-1.956 1.046-3.895 1.603-9.245 1.603H15.383c-5.349 0-7.289-.557-9.244-1.603-1.956-1.046-3.49-2.58-4.536-4.536C.557 91.906 0 89.966 0 84.617V15.383c0-5.349.557-7.289 1.603-9.244 1.046-1.956 2.58-3.49 4.536-4.536C8.094.557 10.034 0 15.383 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(8 6)">
+        <use fill="#000" filter="url(#l048h1r35a)" xlink:href="#upic7mx7vb"/>
+        <use fill="#000" xlink:href="#upic7mx7vb"/>
+        <text fill="#FFF" font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400">
+            <tspan x="112.857" y="36.214">Get it on</tspan>
+        </text>
+        <text fill="#FFF" font-family="Montserrat-Bold, Montserrat" font-size="28" font-weight="bold">
+            <tspan x="113" y="71">Google Play</tspan>
+        </text>
+        <g fill="#FFF" fill-rule="nonzero">
+            <path d="M47.818 22.697L9.532.813C8.602.28 7.543 0 6.472 0 5.385 0 4.314.288 3.375.833 1.481 1.933.304 3.976.304 6.167v43.77c0 2.19 1.177 4.234 3.072 5.334.939.545 2.01.833 3.095.833 1.071 0 2.13-.281 3.06-.813l38.286-21.885c1.916-1.096 3.107-3.147 3.107-5.354 0-2.208-1.19-4.26-3.106-5.355zm-16.59-5.174l-5.258 7.322L13.397 7.33l17.83 10.193zM6.23 52.343c-.342-.034-.677-.134-.977-.308-.745-.432-1.209-1.237-1.209-2.099V6.167c0-.862.464-1.666 1.21-2.099.298-.173.63-.277.973-.312l17.441 24.296L6.23 52.342zm7.167-3.57L25.97 31.26l5.257 7.322-17.83 10.192zM45.96 30.16l-11.47 6.556-6.219-8.663 6.22-8.663 11.47 6.556c.753.431 1.222 1.238 1.222 2.107 0 .868-.469 1.676-1.223 2.107z" transform="translate(32.857 21.429)"/>
+        </g>
+    </g>
+</svg>

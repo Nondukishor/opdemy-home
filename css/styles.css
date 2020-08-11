@@ -249,3 +249,10 @@ main .android-app-section {
 
 .course-image {
   height: 175px; }
+
+.limit-character {
+  display: block;
+  width: 172px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis; }
